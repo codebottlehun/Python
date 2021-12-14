@@ -6,7 +6,11 @@
     1. sub  
       ```python
       print('{}'.format('Hello, python!'))  
-      ```  
-    3.   
-3. B  
-4. C   
+      ```
+    2. sub2
+- B  
+  - sub1
+  - sub2
+* C   
+  * sub1  
+  * sub2
