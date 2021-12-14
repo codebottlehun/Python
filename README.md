@@ -6,7 +6,7 @@
     1. sub  
       ```python
       print('{}'.format('Hello, python!'))  
-      ```
+      ```  
     2. sub2
 - B  
   - sub1
