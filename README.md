@@ -3,12 +3,11 @@
 1. A  
   1. Hi  
   2. Bye  
-    1. sub  
-      ```python  
+    1. sub
+      ```python    
       print('{}'.format('Hello, python!'))  
-      
-    <br>
-    2. sub2
+      ```  
+    3. sub
 - B  
   - sub1
   - sub2
