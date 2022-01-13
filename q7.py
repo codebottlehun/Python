@@ -2,9 +2,9 @@
 
 def solution(arr):
     answer = [arr[0]]
+    arr = arr[1:]
     
-    for i, a in enumerate(arr):
-        if i == 0: pass
+    for a in arr:
         if answer[-1] != a: answer.append(a) 
         
     return answer
