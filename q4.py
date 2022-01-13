@@ -7,7 +7,7 @@ def GCD(a, b):
     Condition : The first parameter must be larger than second.
     '''
     while b:
-        a,  b = b, a % b
+        a, b = b, a % b
     return a
 
 def solution(arr):
