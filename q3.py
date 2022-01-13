@@ -7,7 +7,6 @@ def solution(store, customer):
     for v in customer:
         answer.append('yes' if store_mask.get(v, False) else 'no')
     
-    
     return answer
 
 store = [2,3,7,8,9]
